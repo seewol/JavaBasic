@@ -1,0 +1,9 @@
+package com.kh.practice.list.music.controller;
+
+import java.util.ArrayList;
+
+import com.kh.practice.list.music.model.vo.Music;
+
+public class MusicController {
+	ArrayList<Music> list = new ArrayList<Music>();
+}

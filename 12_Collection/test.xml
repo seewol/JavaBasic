@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Properties Tes File</comment>
+<entry key="date">2023-03-02</entry>
+<entry key="nation">kor</entry>
+<entry key="author">me</entry>
+<entry key="title">Properties Practice</entry>
+</properties>

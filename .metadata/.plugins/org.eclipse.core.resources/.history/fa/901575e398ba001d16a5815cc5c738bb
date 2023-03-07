@@ -1,0 +1,63 @@
+package com.kh.practice.list.music.view;
+
+import java.util.Scanner;
+
+import com.kh.practice.list.music.controller.MusicController;
+
+public class MusicView {
+		Scanner sc = new Scanner(System.in);
+		MusicController mc = new MusicController();
+		
+		public void mainMenu() {
+			
+			int menu = 0;
+			
+			do {
+			System.out.println("******* 메인 메뉴 *******");
+			System.out.println("1. 마지막 위치에 곡 추가");
+			System.out.println("2. 첫 위치에 곡 추가");
+			System.out.println("3. 전체 곡 목록 출력");
+			System.out.println("4. 특정 곡 검색");
+			System.out.println("5. 특정 곡 삭제");
+			System.out.println("6. 특정 곡 정보 수정");
+			System.out.println("9. 종료");
+			System.out.print("메뉴 번호 선택 : ");
+			menu = sc.nextInt();
+			
+			switch(menu) {
+			case 1 : addList();
+			case 2 : addAtZero();
+			case 3 : printAll();
+			case 4 : searchMusic();
+			case 5 : removeMusic();
+			case 6 : setMusic();
+			case 9 : System.out.println("종료"); return;
+			}
+
+			} while(menu != 9);
+		}
+		
+		public void addList() {
+			
+		}
+		
+		public void addAtZero() {
+			
+		}
+		
+		public void printAll() {
+			
+		}
+		
+		public void searchMusic() {
+			
+		}
+		
+		public void removeMusic() {
+			
+		}
+		public void setMusic() {
+			
+		}
+		
+}

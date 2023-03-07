@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.kh.operator&apos; to &apos;03_operator/src&apos;&#x0D;&#x0A;- Original project: &apos;01_variable&apos;&#x0D;&#x0A;- Destination element: &apos;03_operator/src&apos;&#x0D;&#x0A;- Original element: &apos;01_variable/src/com.kh.operator&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=03_operator/src" element1="/src&lt;com.kh.operator" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1676380909650" version="1.0"/>
+</session>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\1_Java_workspace\12_Collection"/>
+			<item value="C:\1_Java_workspace\11_IO"/>
+			<item value="C:\1_Java_workspace\10_Exception"/>
+			<item value="C:\1_Java_workspace\09_API"/>
+			<item value="C:\1_Java_workspace\08_polymorphism"/>
+			<item value="C:\1_Java_workspace\developProj1_배포"/>
+			<item value="C:\Users\윤영배\OneDrive\바탕 화면\SEEWOL\된다 개발자\11_IO"/>
+			<item value="C:\Users\윤영배\OneDrive\바탕 화면\SEEWOL\된다 개발자\09_API"/>
+			<item value="C:\Users\윤영배\OneDrive\바탕 화면\SEEWOL\된다 개발자\08_polymorphism"/>
+			<item value="C:\Users\윤영배\OneDrive\바탕 화면\SEEWOL\된다 개발자\10_Exception"/>
+			<item value="C:\Users\윤영배\OneDrive\바탕 화면\SEEWOL\된다 개발자\developProj1_배포"/>
+			<item value="C:\1_Java_workspace\toPractice"/>
+			<item value="C:\1_Java_workspace\re_array"/>
+			<item value="C:\Users\윤영배\OneDrive\바탕 화면\SEEWOL\된다 개발자\toPractice"/>
+			<item value="C:\Users\윤영배\OneDrive\바탕 화면\SEEWOL\된다 개발자\re_array"/>
+			<item value="C:\Users\윤영배\Downloads\toPractice"/>
+			<item value="C:\Users\윤영배\Downloads\re_array"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\1_Java_workspace\12_Collection.zip"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+	</section>
+</section>
